@@ -1,0 +1,51 @@
+{
+  "portfolio": [
+    {
+      "title": "Fullstack App",
+      "description": "Built with Next.js, TypeScript, and Docker.",
+      "image": "Project Preview"
+    },
+    {
+      "title": "Data Pipeline",
+      "description": "Python data engineering and CI/CD workflow.",
+      "image": "Project Preview"
+    },
+    {
+      "title": "Playcourtify",
+      "description": "Racket sports matchmaking manager.",
+      "image": "Project Preview"
+    }
+  ],
+  "experience": [
+    "Freelance app builder (Current)",
+    "Former Software Engineer (2020-2021)",
+    "Former App Support Specialist (2022-2024)",
+    "Data Engineer (2024-2025)",
+    "Data Platform Engineer (2025-Current)"
+  ],
+  "techStacks": [
+    { "name": "AI Development", "highlight": true },
+    { "name": "Prompt Engineering", "highlight": true },
+    { "name": ".NET", "highlight": false },
+    { "name": "Python", "highlight": true },
+    { "name": "MySQL", "highlight": false },
+    { "name": "JSON", "highlight": false },
+    { "name": "Next.js", "highlight": false },
+    { "name": "TypeScript", "highlight": false },
+    { "name": "Scripting", "highlight": true },
+    { "name": "CI/CD", "highlight": true },
+    { "name": "Docker", "highlight": false },
+    { "name": "Podman", "highlight": true },
+    { "name": "GitLab", "highlight": false },
+    { "name": "GitHub", "highlight": false },
+    { "name": "PHP", "highlight": true }
+  ],
+  "cv": {
+    "url": "cv.pdf"
+  },
+  "contactLinks": [
+    { "url": "mailto:elitepro318@gmail.com", "icon": "fas fa-envelope", "label": "Email Me" },
+    { "url": "tel:09104049265", "icon": "fas fa-phone", "label": "09104049265" },
+    { "url": "https://www.facebook.com/kuyaDarsss/", "icon": "fab fa-facebook", "label": "Facebook", "target": "_blank" }
+  ]
+}
