@@ -24,28 +24,99 @@
     "Data Platform Engineer (2025-Current)"
   ],
   "techStacks": [
-    { "name": "AI Development", "highlight": true },
-    { "name": "Prompt Engineering", "highlight": true },
-    { "name": ".NET", "highlight": false },
-    { "name": "Python", "highlight": true },
-    { "name": "MySQL", "highlight": false },
-    { "name": "JSON", "highlight": false },
-    { "name": "Next.js", "highlight": false },
-    { "name": "TypeScript", "highlight": false },
-    { "name": "Scripting", "highlight": true },
-    { "name": "CI/CD", "highlight": true },
-    { "name": "Docker", "highlight": false },
-    { "name": "Podman", "highlight": true },
-    { "name": "GitLab", "highlight": false },
-    { "name": "GitHub", "highlight": false },
-    { "name": "PHP", "highlight": true }
+    {
+      "name": "AI Development",
+      "highlight": true
+    },
+    {
+      "name": "Prompt Engineering",
+      "highlight": true
+    },
+    {
+      "name": ".NET",
+      "highlight": false
+    },
+    {
+      "name": "Python",
+      "highlight": true
+    },
+    {
+      "name": "MySQL",
+      "highlight": false
+    },
+    {
+      "name": "JSON",
+      "highlight": false
+    },
+    {
+      "name": "Next.js",
+      "highlight": false
+    },
+    {
+      "name": "TypeScript",
+      "highlight": false
+    },
+    {
+      "name": "Scripting",
+      "highlight": true
+    },
+    {
+      "name": "CI/CD",
+      "highlight": true
+    },
+    {
+      "name": "Docker",
+      "highlight": false
+    },
+    {
+      "name": "Podman",
+      "highlight": true
+    },
+    {
+      "name": "GitLab",
+      "highlight": false
+    },
+    {
+      "name": "GitHub",
+      "highlight": false
+    },
+    {
+      "name": "PHP",
+      "highlight": true
+    }
   ],
   "cv": {
     "url": "cv.pdf"
   },
+  "aboutText": "Hi I'm Dars (Mark Darwin C. Villarta), an <span class=\"highlight\">app builder</span>, <span class=\"highlight\">problem solver</span>, and maybe a programmer as you say. With almost <span class=\"highlight\">9+ years in tech and development</span>, I've transformed complex data pipelines, architected scalable systems, and built robust applications from the ground up. Recently, I've been heavily focused on <span class=\"highlight\">AI Development</span> and <span class=\"highlight\">AI-Assisted Engineering</span>, leveraging cutting-edge models and <span class=\"highlight\">Prompt Engineering</span> to accelerate development and build smarter solutions. Whether I'm diving deep into backend architecture, optimizing CI/CD workflows, or crafting intuitive user experiences, I thrive on turning chaotic challenges into elegant, efficient applications.",
+  "socialLinks": [
+    {
+      "url": "https://www.linkedin.com/in/mark-darwin-villarta-15a938207/",
+      "icon": "fab fa-linkedin",
+      "label": "LinkedIn"
+    },
+    {
+      "url": "https://github.com/Anoobiex318/",
+      "icon": "fab fa-github",
+      "label": "Github"
+    }
+  ],
   "contactLinks": [
-    { "url": "mailto:elitepro318@gmail.com", "icon": "fas fa-envelope", "label": "Email Me" },
-    { "url": "tel:09104049265", "icon": "fas fa-phone", "label": "09104049265" },
-    { "url": "https://www.facebook.com/kuyaDarsss/", "icon": "fab fa-facebook", "label": "Facebook", "target": "_blank" }
+    {
+      "url": "mailto:elitepro318@gmail.com",
+      "icon": "fas fa-envelope",
+      "label": "Email Me"
+    },
+    {
+      "url": "tel:09104049265",
+      "icon": "fas fa-phone",
+      "label": "09104049265"
+    },
+    {
+      "url": "https://www.facebook.com/kuyaDarsss/",
+      "icon": "fab fa-facebook",
+      "label": "Facebook",
+      "target": "_blank"
+    }
   ]
 }

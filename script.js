@@ -367,6 +367,30 @@ document.addEventListener('DOMContentLoaded', () => {
                     contactLinksContainer.appendChild(a);
                 });
             }
+
+            // Populate About Text
+            const aboutTextContainer = document.getElementById('about-text-container');
+            if (aboutTextContainer && data.aboutText) {
+                aboutTextContainer.innerHTML = data.aboutText;
+            }
+
+            // Populate Social Links
+            const socialLinksContainer = document.getElementById('social-links-container');
+            if (socialLinksContainer && data.socialLinks) {
+                data.socialLinks.forEach(link => {
+                    const a = document.createElement('a');
+                    a.target = "_blank";
+                    a.href = link.url;
+                    
+                    const icon = document.createElement('i');
+                    icon.className = link.icon;
+                    
+                    a.appendChild(icon);
+                    a.appendChild(document.createTextNode(' ' + link.label));
+                    
+                    socialLinksContainer.appendChild(a);
+                });
+            }
         })
         .catch(error => {
             console.error('Error loading portfolio data:', error);
